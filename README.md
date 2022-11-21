@@ -16,7 +16,7 @@ ___
 - `/g_chkpt` - Folder where 'Generator' model check points to be saved
 	- `getModelPkl.py`: used to download final check point for the trained model. Command: `python getModelPkl.py`
 - `/vae_chkpt` - Folder where 'VAE' model check points to be saved
-	- `getModelPkl.py: used to download final check point for the trained model. Command: `python getModelPkl.py`
+	- `getModelPkl.py`: used to download final check point for the trained model. Command: `python getModelPkl.py`
 - `/outputs` - Folder where the generated images are saved
 - `/ID-GAN.ipynb` - Jupyter notebook for the paper implementation.
 - `/requirements.txt` - Needed python libraries
