@@ -1,0 +1,7 @@
+PIL
+dgown
+matplotlib
+tqdm
+torch
+torchvision
+ipython
