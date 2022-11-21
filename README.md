@@ -5,10 +5,10 @@ Reference paper: https://arxiv.org/abs/2001.04296
 Auther's implementation: https://github.com/1Konny/idgan.git
 ___
 ## Training
- - Data Set: CelebA data set is used form model training
- - Stage 1: VAE is trained for 1^6 iteration
- - Stage 2: Resnet Generator & Discriminator are trained for 3*10^5 iteration
- - trained on 1x A100 (40 GB SXM4) for 28hrs
+ - Data Set: CelebA data set is used for model training
+ - Stage 1: VAE is trained for 1e6 iteration
+ - Stage 2: Resnet Generator & Discriminator are trained for 3e5 iteration
+ - trained on 1xA100 (40 GB SXM4) for 28hrs
 ___
 ## Project Files and Folders
 - `/d_chkpt` - Folder where 'Discriminator' model check points to be saved
